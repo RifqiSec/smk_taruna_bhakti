@@ -1,0 +1,3 @@
+barisan pertama latihan git
+barisan kedua 
+barisan ke tiga
